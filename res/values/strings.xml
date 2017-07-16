@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wa">Whats App</string>
+    <string name="s_img">Select Image</string>
+    <string name="ret">Retrieve</string>
+
+</resources>
